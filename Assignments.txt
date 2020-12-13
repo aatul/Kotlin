@@ -1,0 +1,162 @@
+1. WAP to check whether a Number is Even or Odd
+
+2. WAP to find the number of occurance of a character in a String
+
+3. WAP to check if the String is empty or not
+
+4. WAP to reverse a String
+
+5. WAP to count the number of vovels and consonants in a String
+
+6. WAP to check if the character is alphabet or a number
+
+7. WAP to check of the character is vovel or consonant
+
+8. WAP to convert character to String
+
+9. WAP to convert character array to String
+
+10. WAP to convert String to character array
+
+11. WAP to convert Binary to Decimal
+
+12. WAP to convert Decimal to Binary
+
+13. WAP to convert Octal to Decimal
+
+14. WAP to convert Decimal to Octal
+
+15. WAP to find the square of a given number
+
+16. WAP to find the square root of a given number
+
+17. WAP to find the cube of a given number
+
+18. WAP to find the cube root of a given number
+
+19. WAP to check if given number is Prime or not
+
+20. WAP to check if given number is Palindrome or not
+
+21. WAP to check if given number is Armstrong or not
+
+22. WAP to check if given number is Peterson or not
+Peterson number : A number is said to be a Peterson number if the sum of factorials of each digit of the number is equal to the number itself.
+Example : 145 = 5! + 4! + 1!
+              = 120 + 24 +1
+              = 145
+
+23. WAP to find the factorial of given number
+
+24. WAP to find the largest among the three numbers
+
+25. WAP to find all roots of quadratic equation
+
+26. WAP to print prime numbers up to 100
+
+27. Basic Calculator, perform Four basic operations.
+Create a menu driven program, allow user to select which operation to be performed.
+
+28. WAP to print table of given number using While loop
+
+29. WAP to check whether given year is Leap year or not?
+
+30. WAP to print Prime numbers up to 100 using While loop
+
+31. WAP to find the following using Switch case:
+    1) Factorial
+    2) Armstrong number
+    3) Peterson number
+
+32. WAP to find the following using Switch case:
+    1) Area of rectangle
+    2) Area of square
+    3) Area of circle
+
+33. WAP to find the following using Switch case:
+    1) Farenhit
+    2) Celcius
+    3) Kelvin
+
+34. WAP to check whether the number is positive or negative
+
+35. WAP to print the Fibonacci Series 
+
+36. WAP to print A-Z using all three loops (for loop, while loop and do-while loop)
+
+37. WAP to count the number of digits of a Integer number
+
+38. WAP to reverse a number
+
+39. WAP to calculate the power of a number
+
+40. WAP to print following pattern (Half Pyramid)
+    *
+    * *
+    * * *
+    * * * *
+    * * * * *
+
+41. WAP to print following pattern (Inverted Half Pyramid)
+    * * * * *
+    * * * *
+    * * * 
+    * *
+    *
+
+42. WAP to add two matrices
+
+43. WAP to subtract two matrices
+
+44. WAP to multiply two matrices
+
+45. WAP to divide two matrices
+
+46. WAP to find transpose of a matrix
+
+47. WAP to check if the arrays contains the given number
+
+48. WAP to sort the elements of an array in ascending order
+
+49. WAP to sort the elements of an array in descending order
+
+50. WAP to print the square of every element of an array
+
+51. WAP to join two lists
+
+52. WAP to convert List to Array
+
+53. WAP to convert Array to List
+
+54. WAP to convert Map to lists
+
+55. WAP to Array to Set
+
+56. WAP to sort Map by values
+
+57. WAP to calculate the harmonic sum of n-1. Go to the editor
+Note: The harmonic sum is the sum of reciprocals of the positive integers. 
+Example : 1+(1/2)+(1/3)+(1/4)+(1/4)+(1/n)
+
+58. WAP to create a function and print number of Capital and small characters from a string.
+
+59. WAP to create a class to convert an integer to a roman numeral
+For Example: 9 -> IX
+
+60. WAP to create a function and find largest of three numbers
+
+61. WAP to create a function and find the sum of all the elements of a list
+
+62. WAP to create a function and find the sum of all the elements of an array
+
+63. WAP to create functions and find LCM & HCM
+
+64. WAP to create a function and find the second largest number from a array
+
+65. WAP to create a function and print even and odd numbers separatly
+
+66. WAP to create a function and sort the array in ascending and descending order
+
+67. WAP to create different functions to find the area of circle, rectangle and square
+
+68. WAP to check if String is numeric that means if the String contains numbers
