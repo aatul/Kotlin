@@ -1,4 +1,4 @@
-# kotlin
+# Kotlin Training
 All the source codes from Kotlin Training
 These code snippets were developed during the training and workshop. All the material is copyrighted and shall not be used in part or whole for commercial purpose without the prior written permission of the author.
 
