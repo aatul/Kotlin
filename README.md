@@ -8,14 +8,8 @@ Blog : http://aatul.me
 
 Follow me on:
 
-Facebook : https://facebook.com/aatulpalandurkar
-Instagram : https://instagram.com/aatulpalandurkar
-YouTube : https://www.youtube.com/user/AtulPalandurkar?sub_confirmation=1
-Regards.
+Facebook : https://facebook.com/aatulpalandurkar Instagram : https://instagram.com/aatulpalandurkar YouTube : https://www.youtube.com/user/AtulPalandurkar?sub_confirmation=1 Regards.
 
 Aatul Palandurkar
 
-International Trainer and Author,
-12 Awards till date,
-14+ years of experience,
-Member of NetBeans Dream Team
+International Trainer and Author, 12 Awards till date, 14+ years of experience, Member of NetBeans Dream Team
